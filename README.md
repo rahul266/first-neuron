@@ -1,4 +1,4 @@
-#First Neuron
+# First Neuron
 
 This is very atomic implementation of Neural network and How Backpropogation, autograd happens during training the neural network.
 
